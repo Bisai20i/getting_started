@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/getting_started/static/js/main.adbd355b.js",
+    "index.html": "/getting_started/index.html",
+    "main.adbd355b.js.map": "/getting_started/static/js/main.adbd355b.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.adbd355b.js"
+  ]
+}
